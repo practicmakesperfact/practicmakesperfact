@@ -30,7 +30,7 @@
 
 [![practicmakesperfact's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=practicmakesperfact&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
-<img src="https://raw.githubusercontent.com/practicmakesperfact/practicmakesperfact/main/output/snake.svg" alt="Snake animation" />
+
 
 <!---
 practicmakesperfact/practicmakesperfact is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
