@@ -26,9 +26,6 @@
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=practicmakesperfact&theme=monokai&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
-## 📈 GitHub Contribution Graph
-
-[![practicmakesperfact's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=practicmakesperfact&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
 <!---
