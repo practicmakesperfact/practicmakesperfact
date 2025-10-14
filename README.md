@@ -31,7 +31,6 @@
 [![practicmakesperfact's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=practicmakesperfact&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
 
-
 <!---
 practicmakesperfact/practicmakesperfact is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
