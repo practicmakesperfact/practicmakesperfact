@@ -20,11 +20,13 @@
 
 ## 📘 Most Used Languages
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=practicmakesperfact&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=practicmakesperfact&layout=compact&langs_count=8&hide_border=true)
+
 
 ## 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=practicmakesperfact&theme=monokai&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=practicmakesperfact&margin-w=8&no-frame=true)
+
 
 
 
