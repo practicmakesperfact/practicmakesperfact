@@ -19,13 +19,11 @@
 <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
 
 ## 📘 Most Used Languages
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=practicmakesperfact&layout=compact&langs_count=8&hide_border=true)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=practicmakesperfact&layout=compact&langs_count=8&hide_border=true&cache_seconds=86400)
 
 ## 🏆 GitHub Trophies
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=practicmakesperfact&no-frame=true&theme=onedark)
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=practicmakesperfact&margin-w=8&no-frame=true)
 
 
 
