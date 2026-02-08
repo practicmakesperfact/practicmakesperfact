@@ -4,7 +4,7 @@
 - 👀 I’m interested in developing new technologies, especially in web and security software
 - 🌱 I’m currently learning Python, Django, and REST API
 - 💞️ I’m looking to collaborate on open-source Django projects, web apps, or security tools
-- 📫 How to reach me haymanot.vercel.app | [linkedin] (www.linkedin.com/in/haymanot-asmare)
+- 📫 How to reach me [haymanot.vercel.app](https://haymanot.vercel.app/) | [linkedin] (www.linkedin.com/in/haymanot-asmare)
 - ⚡ Fun fact: I built car rental system project for habesha car rental!
 
 
