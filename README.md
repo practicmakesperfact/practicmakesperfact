@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Haymanot%20Asmare&fontSize=54&fontColor=fff&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20%7C%20AI%20%26%20Backend%20Development&descAlignY=60&descSize=18&animation=fadeIn" width="100%" />
+<h1>👋 Hi, I'm Haymanot Asmare</h1>
+
+<h3>Full-Stack Software Engineer &nbsp;|&nbsp; AI &amp; Backend Development</h3>
 
 <a href="https://github.com/practicmakesperfact">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=9333EA&center=true&vCenter=true&width=700&lines=Building+AI-powered+web+apps+with+Django+%26+React;Agentic+workflows+%7C+RAG+%7C+LLM+integration;REST+APIs+with+Django+REST+Framework+%26+FastAPI;Security-minded+engineering;Always+learning%2C+always+shipping" alt="Typing SVG" />
@@ -147,13 +149,55 @@ An **agentic AI support platform** offering empathetic conversations, CBT-guided
 ![SQLAlchemy](https://img.shields.io/badge/-SQLAlchemy-D71F00?style=flat-square&logo=sqlalchemy&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
 
+### 🛡️ Featured: Anti-Malware Agent — AI-Powered Security Assistant
+
+A **voice-enabled security chatbot** that combines rule-based intent handling with machine-learning URL/text classification.
+
+- 🧱 **Four-layer detection flow** — trusted-domain checks → typosquatting detection → brand-spoofing detection → ML analysis
+- 🎙️ Browser-based **speech-to-text and text-to-speech**, conversation context, confidence scores, and a security performance dashboard
+- 📈 **93.93% ML accuracy** and **100% rule-based intent accuracy** across 96 test questions *(as reported in the project README)*
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/-DRF-A30000?style=flat-square&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+[![Source](https://img.shields.io/badge/Source_Code-Anti--malware__chatbot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/practicmakesperfact/Anti-malware_chatbot)
+
+### 💼 Featured: Hire Me — AI Interview Simulator & English Communication Platform
+
+A full-stack, **AI-powered interview simulator** that helps people practice technical interviews, fix spoken-English issues, and track their progress with intelligent feedback.
+
+- 🎤 **Interview simulation** — local-LLM (Ollama) question generation; Technical, Behavioral, or Mixed interviews at Beginner, Intermediate, or Advanced level, with automatic multi-dimension scoring
+- 🗣️ **Speech pipeline** — speech-to-text with faster-whisper and text-to-speech with Piper TTS, plus pronunciation confidence and speaking-rate analysis
+- 🧪 **English Communication Lab** — detects filler words, repeated phrases, grammar issues, and speaking-rate problems, with a confirm/dismiss workflow
+- 🎯 **Practice system** — prioritized practice queue, reference audio, and auto-mastery after 3 successful attempts (score ≥ 8.0)
+- 📚 **RAG knowledge base** — document import, SQLite FTS5 search, and answer verification against documentation
+- 📈 **Progress reports** — score trends, topic/difficulty breakdowns, and personalized recommendations
+- 🔐 **Secure by design** — JWT auth, role-based access (Admin/User), and per-user data isolation
+
+![Django](https://img.shields.io/badge/-Django_5-092E20?style=flat-square&logo=django&logoColor=white)
+![DRF](https://img.shields.io/badge/-DRF-A30000?style=flat-square&logo=django&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js_15-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/-shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Whisper](https://img.shields.io/badge/-faster--whisper-412991?style=flat-square)
+![Piper](https://img.shields.io/badge/-Piper_TTS-FF6F00?style=flat-square)
+![SQLite](https://img.shields.io/badge/-SQLite_FTS5-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![FFmpeg](https://img.shields.io/badge/-FFmpeg-007808?style=flat-square&logo=ffmpeg&logoColor=white)
+
+[![Portfolio](https://img.shields.io/badge/More_work-haymanot.vercel.app-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://haymanot.vercel.app/)
+
 ### 🤖 AI & Security
 
 | Project | Description | Tech | Source |
 |---|---|---|---|
 | 🛡️ **Anti-Malware Agent** | Voice-enabled security chatbot with a **four-layer detection flow**: trusted-domain checks → typosquatting → brand-spoofing → ML analysis. Browser speech-to-text/text-to-speech, confidence scores, and a security dashboard. **93.93% ML accuracy** and **100% rule-based intent accuracy** across 96 test questions (per project README). | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white) ![scikit-learn](https://img.shields.io/badge/-scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white) | [Repo](https://github.com/practicmakesperfact/Anti-malware_chatbot) |
 | ✍️ **CPM AI — Custom Proposal Maker** | AI proposal generator for freelancers: conversational interface, persistent profile memory, job-match scoring (strengths & weaknesses), proposal lifecycle tracking (generated → submitted → won), and a stats dashboard. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Claude](https://img.shields.io/badge/-Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white) | — |
-| 🎤 **AI Interview Simulator** | Django backend for AI interview practice with LLM-driven question generation, speech processing, communication-issue detection, RAG retrieval, and progress tracking. | ![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-blueviolet?style=flat-square) | — |
 
 ### 🌐 Full-Stack Web Apps
 
@@ -223,17 +267,13 @@ graph LR
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=practicmakesperfact&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://streak-stats.demolab.com/?user=practicmakesperfact&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=practicmakesperfact&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
-<br>
+<br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=practicmakesperfact&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=86400" width="48%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=practicmakesperfact&theme=tokyo-night&hide_border=true" width="48%" />
-
-<br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=practicmakesperfact&theme=tokyonight&no-frame=true&row=1&column=7" width="95%" />
+![Followers](https://img.shields.io/github/followers/practicmakesperfact?label=Followers&style=for-the-badge&logo=github&color=9333EA)
+![Last Commit](https://img.shields.io/github/last-commit/practicmakesperfact/Anti-malware_chatbot?label=Last%20Commit&style=for-the-badge&color=4169E1)
+![Repo Stars](https://img.shields.io/github/stars/practicmakesperfact/Anti-malware_chatbot?label=Anti--Malware%20Stars&style=for-the-badge&color=FFD700)
 
 </div>
 
@@ -253,6 +293,5 @@ I'm open to **internships, junior roles, freelance work, and open-source collabo
 
 <img src="https://komarev.com/ghpvc/?username=practicmakesperfact&label=Profile%20Views&color=9333EA&style=flat-square" />
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
