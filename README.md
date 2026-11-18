@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>👋 Hi, I'm Haymanot Asmare</h1>
+<h1> Hi, I'm Haymanot Asmare</h1>
 
 <h3>Full-Stack Software Engineer &nbsp;|&nbsp; AI &amp; Backend Development</h3>
 
